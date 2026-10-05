@@ -1,0 +1,7 @@
+{
+  "name": "Sringar Beauty Salon – Exclusive Women-Only Salon by Nilu Singh",
+  "description": "Sringar Beauty Salon in Maheshtala, Kolkata. Exclusive female-only beauty & hair salon by Nilu Singh offering hair styling, bridal transformations, and rejuvenating skincare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
